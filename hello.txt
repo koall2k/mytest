@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hahahahah
 test
+=======
+hahahahah
+test
+xx
+>>>>>>> 1a7300074ea965747830bf3fc07c306778ab8f32
